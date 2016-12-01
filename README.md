@@ -1,10 +1,10 @@
 # Introduction to Python
 
-To download the material of the workshop to your computer just execute the following command line in the terminal ( you must be in the path where you want to save the folder in your computer):
+To download the material of the workshop to your computer just execute the following command line in the bash terminal ( you must be in the path where you want to save the folder in your computer):
 
 ```bash
-$cd /name/of/folder/where/to/save/
-$git clone https://github.com/Starignus/Python_Workshop_ICAH.git
+cd /name/of/folder/where/to/save/
+git clone https://github.com/Starignus/Python_Workshop_ICAH.git
 ```
 or just download it from [here](https://github.com/Starignus/Python_Workshop_ICAH/archive/master.zip).
 
