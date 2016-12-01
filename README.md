@@ -11,7 +11,7 @@ or just download it from [here](https://github.com/Starignus/Python_Workshop_ICA
 ## Lessons
 
 #### Day 1
-* [Introduction](/day/Introduction.ipynb)
+* [Introduction](day1/Introduction.ipynb)
 * Getting Start with Python
 * Python Object and Data Structure Basics
 * Python Comparison Operators
