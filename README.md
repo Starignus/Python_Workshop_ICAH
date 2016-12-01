@@ -1,4 +1,4 @@
-# Introduction to Python Workshop
+# Introduction to Python 
 
 ## Lessons
 
