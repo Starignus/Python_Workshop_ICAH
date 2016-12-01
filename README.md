@@ -11,7 +11,7 @@ or just download it from [here](https://github.com/Starignus/Python_Workshop_ICA
 ## Lessons
 
 #### Day 1
-* Introduction
+* [Introduction](/day/Introduction.ipynb)
 * Getting Start with Python
 * Python Object and Data Structure Basics
 * Python Comparison Operators
@@ -115,7 +115,7 @@ $ jupyter notebook
 
 You should see the notebook open in your browser to this URL:
 
-<img src="tryjupyter_file.png" alt="jupyter" style="width: 200px;"/>
+<img src="tryjupyter_file.png" alt="jupyter" style="width: 400px;"/>
 
 When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. Most of the time, you will wish to start a notebook server in the highest level directory containing notebooks. Often this will be your home directory.
 
