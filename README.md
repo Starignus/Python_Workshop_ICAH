@@ -14,8 +14,7 @@ or just download it from [here](https://github.com/Starignus/Python_Workshop_ICA
 * [Introduction](day1/Introduction.ipynb)
 * [Getting Start with Python](day/Getting_Started_With_Python.ipynb)
   * Python Object and Data Structure Basics
-* Python Comparison Operators
-* Python Statements
+* [Python Statements](day1/Python_Statements.ipynb)
 * Methods and Functions
 * Object Oriented Programming
 * Errors and Exceptions Handling
