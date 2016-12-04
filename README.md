@@ -10,18 +10,14 @@ or just download it from [here](https://github.com/Starignus/Python_Workshop_ICA
 
 ## Lessons
 
-#### Day 1
-* [Introduction](day1/Introduction.ipynb)
-* [Getting Start with Python](day/Getting_Started_With_Python.ipynb)
-  * Python Object and Data Structure Basics
-* [Python Statements](day1/Python_Statements.ipynb)
+* [Introduction](Lessons/Introduction.ipynb)
+* [Getting Start with Python](Lessons/Getting_Started_With_Python.ipynb)
+  * [Python Object and Data Structure Basics](Lessons/Getting_Started_With_Python.ipynb)
+* [Python Statements](Lessons/Python_Statements.ipynb)
 * Methods and Functions
 * Object Oriented Programming
 * Errors and Exceptions Handling
 * Scripting
-
-#### Day 2
-
 * Learning Numpy
 * Learning Pandas
 
