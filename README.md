@@ -15,14 +15,15 @@ or just download it from [here](https://github.com/Starignus/Python_Workshop_ICA
   * [Python Object and Data Structure Basics](Lessons/Getting_Started_With_Python.ipynb)
 * [Python Statements](Lessons/Python_Statements.ipynb)
 * Methods and Functions
-* Errors and Exceptions Handling
 * Scripting
-* [Object Oriented Programming](Lessons/Object_Oriented_Programming.ipynb)
+
 * Learning Numpy
 * Learning Pandas
 
+Optional:
+* [Object Oriented Programming](Lessons/Object_Oriented_Programming.ipynb)
 
-# Requirements
+# Required preparations
 
 For this workshop, the participants are encouraged to use their computers to ensure the proper setup of tools required for an efficient workflow. The lessons assume no previous knowledge of the tools or skills, but working through the workshop requires to have a copy of the code on your computer. Please, make sure to install all the software needed before working through the lessons.
 
@@ -62,7 +63,7 @@ and then press tab. The name of the file you just downloaded should appear.
 
 #### Checking our installation is working.
 
-To make sure Anaconda installation was successful, you can download the script [check_python_installation.py](check_python_installation.py) that will check if Anaconda has been correctly installed on your system. From your terminal, navigate to the directory where you downloaded the script and execute the following:
+To make sure Anaconda installation was successful, you can download the script [check_python_installation.py](https://github.com/Starignus/Python_Workshop_ICAH/blob/master/check_python_installation.py) that will check if Anaconda has been correctly installed on your system. From your terminal, navigate to the directory where you downloaded the script and execute the following:
 ```bash
 python check_python_installation.py
 ```
@@ -113,5 +114,7 @@ You should see the notebook open in your browser to this URL:
 <img src="tryjupyter_file.png" alt="jupyter" style="width: 400px;"/>
 
 When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. Most of the time, you will wish to start a notebook server in the highest level directory containing notebooks. Often this will be your home directory.
+
+You have done your preparations for the course, see you in the workshop.
 
 Reference [[1](https://jupyter.readthedocs.io/en/latest/running.html#running)]
