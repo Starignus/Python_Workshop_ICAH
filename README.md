@@ -15,8 +15,7 @@ or just download it from [here](https://github.com/Starignus/Python_Workshop_ICA
   * [Python Object and Data Structure Basics](Lessons/Getting_Started_With_Python.ipynb)
 * [Python Statements](Lessons/Python_Statements.ipynb)
 * [Functions](Lessons/Functions.ipynb)
-* Scripting
-
+* [Scripting](Lessons/Script.ipynb)
 * Learning Numpy
 * Learning Pandas
 
