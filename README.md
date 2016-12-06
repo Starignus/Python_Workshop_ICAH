@@ -16,8 +16,8 @@ or just download it from [here](https://github.com/Starignus/Python_Workshop_ICA
 * [Python Statements](Lessons/Python_Statements.ipynb)
 * [Functions](Lessons/Functions.ipynb)
 * [Scripting](Lessons/Script.ipynb)
-* Learning Numpy
-* Learning Pandas
+* [Numerical Python (NumPy)](Lessons/Numpy.ipynb)
+* Learning Pandas and Matplotlib
 
 Optional:
 * [Object Oriented Programming](Lessons/Object_Oriented_Programming.ipynb)
