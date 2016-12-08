@@ -20,6 +20,7 @@ or just download it from [here](https://github.com/Starignus/Python_Workshop_ICA
 *  [Matplotlib](Lessons/Matplotlib.ipynb)
 *  Pandas
 
+
 Optional:
 * [Object Oriented Programming](Lessons/Object_Oriented_Programming.ipynb)
 
