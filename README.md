@@ -2,10 +2,13 @@
 
 This workshop is oganiased for the Chemical Biology Winter School 2016 and given by the [Imperial College Advanced Hackspace](www.icah.org.uk).  
 
-<img src="ICAH.png" alt="jupyter" style="width: 400px;"/>
+<img src="ICAH.png" alt="jupyter" style="width: 250px;"/>
+
 
 **Instructor**: [Dr. Ariadna Blanca Romero](starignus.github.io)
+
 **email**: ariadna@starignus.com
+
 **Twitter:** @starignus
 
 # Material
