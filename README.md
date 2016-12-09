@@ -18,7 +18,7 @@ or just download it from [here](https://github.com/Starignus/Python_Workshop_ICA
 * [Scripting](Lessons/Script.ipynb)
 * [Numerical Python (NumPy)](Lessons/Numpy.ipynb)
 *  [Matplotlib](Lessons/Matplotlib.ipynb)
-*  Pandas
+*  [Pandas](Lessons/Pandas.ipnb)
 
 
 Optional:
