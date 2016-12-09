@@ -1,4 +1,14 @@
-# Introduction to Python
+# Python Workshop.
+
+This workshop is oganiased for the Chemical Biology Winter School 2016 and given by the [Imperial College Advanced Hackspace](www.icah.org.uk).  
+
+<img src="ICAH.png" alt="jupyter" style="width: 400px;"/>
+
+**Instructor**: [Dr. Ariadna Blanca Romero](starignus.github.io)
+**email**: ariadna@starignus.com
+**Twitter:** @starignus
+
+# Material
 
 To download the material of the workshop to your computer just execute the following command line in the bash terminal ( you must be in the path where you want to save the folder in your computer):
 
@@ -116,6 +126,6 @@ You should see the notebook open in your browser to this URL:
 
 When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. Most of the time, you will wish to start a notebook server in the highest level directory containing notebooks. Often this will be your home directory.
 
-You have done your preparations for the course, see you in the workshop.
+You have done your preparations for the course, see you in the workshop!.
 
 Reference [[1](https://jupyter.readthedocs.io/en/latest/running.html#running)]
