@@ -1,6 +1,6 @@
 # Python Workshop.
 
-This workshop is oganiased for the Chemical Biology Winter School 2016 and given by the [Imperial College Advanced Hackspace](www.icah.org.uk).  
+This workshop is oganiased for the Chemical Biology Winter School 2016 and given by the [Imperial College Advanced Hackspace](https://imperialhackspace.com/the-hackspace/).  
 
 <img src="ICAH.png" alt="jupyter" style="width: 250px;"/>
 
@@ -13,7 +13,7 @@ This workshop is oganiased for the Chemical Biology Winter School 2016 and given
 
 # Material
 
-To download the material of the workshop to your computer just execute the following command line in the bash terminal ( you must be in the path where you want to save the folder in your computer):
+To download the material of the workshop to your computer, just execute the following command line in the bash terminal ( you must be in the path where you want to save the folder in your computer):
 
 ```bash
 cd /name/of/folder/where/to/save/
@@ -39,7 +39,7 @@ Optional:
 
 # Required preparations
 
-For this workshop, the participants are encouraged to use their computers to ensure the proper setup of tools required for an efficient workflow. The lessons assume no previous knowledge of the tools or skills, but working through the workshop requires to have a copy of the code on your computer. Please, make sure to install all the software needed before working through the lessons.
+For this workshop, participants are encouraged to use their computers to ensure the proper setup of tools required for an efficient workflow. The lessons assume no previous knowledge of the tools or skills, but working through the workshop requires having a copy of the code on your computer. Please make sure to install all the software needed before working through the lessons.
 
 ### Setting Up Python
 
@@ -52,28 +52,28 @@ During the lessons, we will be using the [Jupyter Notebook](http://jupyter.org/)
 #### Windows
 
 1. Open the  [Anaconda](http://continuum.io/downloads) download website.
-2. Download the default Python 2.x installer (If you are not use to the command line commands download the graphical installer).
+2. Download the default Python 2.x installer (If you are not used to the command line commands, download the graphical installer).
 3. Use all of the defaults for installation __except__ make sure to check **Make Anaconda the default Python.**
 
 
 #### Mac OS X
 
 1. Open the  [Anaconda](http://continuum.io/downloads) download website.
-2. Download the default Python 2.x installer (If you are not use to the command line commands download the graphical installer).
+2. Download the default Python 2.x installer (If you are not used to the command line commands, download the graphical installer).
 3. Use all of the defaults for installation.
 
 #### Linux
 
 1. Open the  [Anaconda](http://continuum.io/downloads) download website.
 2. Download the default Python 2.x installer, save it in your home folder.
-3. Install Python 2.x using all of the defaults for installation. (Installation requires using the shell. If you aren't comfortable doing the installation yourself stop here and request help.)
+3. Install Python 2.x using all of the defaults for installation. (Installation requires using the shell. If you aren't comfortable doing the installation yourself, stop here and request help.)
 4. Open a terminal window.
 5. Type
 ``` bash
 bash Anaconda-
 ```
 and then press tab. The name of the file you just downloaded should appear.
-6. Press enter. You will follow the text-only prompts. When there is a colon at the bottom of the screen press the down arrow to move down through the text. Type ``yes`` and press enter to approve the license. Press enter to approve the default location for the files. Type ``yes`` and press enter to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
+6. Press enter. You will follow the text-only prompts. When there is a colon at the bottom of the screen, press the down arrow to move down through the text. Type ``yes`` and press enter to approve the license. Press enter to approve the default location for the files. Type ``yes`` and press enter to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
 
 #### Checking our installation is working.
 
@@ -89,7 +89,7 @@ __Note:__ In case you are unfamiliar with bash commands you can practise in a [c
 
 The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
 
-In case you Jupyter is not by default installed, you should have got a message telling you so when running the ``check_python_installation.py``. If that is the case, you have to install it.
+If Jupyter is not installed by default, you should have received a message telling you so when running the ``check_python_installation.py``. If that is the case, you have to install it.
 
 In **Linux and Mac** open a terminal and type:
 ```bash
@@ -127,7 +127,7 @@ You should see the notebook open in your browser to this URL:
 
 <img src="tryjupyter_file.png" alt="jupyter" style="width: 400px;"/>
 
-When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. Most of the time, you will wish to start a notebook server in the highest level directory containing notebooks. Often this will be your home directory.
+When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. Most of the time, you will wish to start a notebook server in the highest-level directory containing notebooks. Often this will be in your home directory.
 
 You have done your preparations for the course, see you in the workshop!.
 
